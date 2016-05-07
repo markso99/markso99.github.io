@@ -1,0 +1,30 @@
+.intro {
+    color: purple;
+    background-color: gold;
+}
+
+.intro img {
+    height:400px;
+    width:300px;
+}
+
+.my_projects {
+    color: gold;
+    background-color:purple;
+    height: auto;
+}
+
+.my_projects .col-xs-4 {
+    color: purple;
+    background-color:gold;
+}
+
+.contact {
+    color:gold;
+    background-color:purple;
+}
+
+.contact .col-xs-4 {
+    color:gold;
+    background-color:purple;
+}
